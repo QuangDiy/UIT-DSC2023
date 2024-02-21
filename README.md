@@ -7,13 +7,13 @@ During a private evaluation conducted on the ISE-DSC01 dataset, the ViNSV system
 
 ## ViNSV
 <p align="center">
-    <img src="Pic/CLS.png" width="250">
+    <img src="Pic/CLS.png" width="300">
         <br>
     <em>Figure 1: Classification Pipeline.</em>
 </p>
 
 <p align="center">
-    <img src="Pic/Evidence Retrieval.png" width="700">
+    <img src="Pic/Evidence Retrieval.png" width="500">
         <br>
     <em>Figure 2: Evidence Retrieval Pipeline.</em>
 </p>
@@ -21,7 +21,7 @@ During a private evaluation conducted on the ISE-DSC01 dataset, the ViNSV system
 In addition, we have also demonstrated that the ensemble model provides higher performance. The ensemble model's performance was rigorously evaluated against the standalone BM25 and SBERT models, utilizing Top-1 Accuracy (Acc@1) as the primary metric for Support (S) and Refute (R) evidence categories (Fig. 3).
 
 <p align="center">
-    <img src="Pic/multi-stage.png" width="600">
+    <img src="Pic/multi-stage.png" width="500">
         <br>
     <em>Figure 3: The performance of algorithms for the task of Evidence
 Retrieval, with the Acc@1 metric for Support and Refute.</em>
