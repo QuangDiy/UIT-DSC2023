@@ -1,4 +1,4 @@
-# ViNSV: Vietnamese Fact Extraction and Verification System
+# ViNSV: Vietnamese Fact Extraction and Verification System (UIT - DSC 2023)
 
 ## Introduction
 ViNSV is a system developed and designed to address the challenges of fact extraction and verification. This study presents the ViNSV system, which was developed as part of a competition [UIT-DSC 2023](https://dsc.uit.edu.vn/) using the ISE-DSC01 dataset. The system leverages advanced natural language processing techniques, including BM25, Sentence-BERT, and XLM-R, to achieve high accuracy in fact extraction and verification tasks.
